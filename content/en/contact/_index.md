@@ -8,5 +8,5 @@ menu:
 
 We are a team of creative professionals and web developers servicing clients worldwide. We offer a free consultation for all new clients.
 
-- **Phone:** XXXX XXX XXX
-- **Email:** [example@example.com](mailto:example@example.com)
+- **Phone:** +1 (937) 543-2576
+- **Email:** [info@wallaceandwhite.com](mailto:info@wallaceandwhite.com)

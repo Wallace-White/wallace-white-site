@@ -1,13 +1,13 @@
 ---
-title: 'Hugo Advance'
+title: 'Wallace and White Technology Solutions'
 date: 2019-02-22
-description: 'Advance is a multi-purpose premium Hugo theme. Modern design, clean code and highly configurable.'
+description: 'Need tech services? We are a one-stop shop for IT excellence across a variety of industries. Take advantage of our team of experts for a fraction of the cost of maintaining an internal IT staff!'
 header_transparent: true
 hero:
-  background: "images/home/charles-deluvio-Lks7vei-eAg-unsplash-2000.jpg"
+  background: "images/home/home.jpeg"
   blend_mode: "overlay"
   theme: "primary"
-services: 
+services:
   enabled: true
   show_view_all: true
   limit: 3
@@ -17,7 +17,7 @@ intro:
   image: "images/home/kevin-bhagat-zNRITe8NPqY-unsplash-800.jpg"
   heading: "We Help Business Grow"
   description: Our software empowers customers and retailers to work from anywhere in the world, on the go, or at home.
-  button: 
+  button:
     text: "Buy Now"
     url: "https://www.zerostatic.io/theme/hugo-advance/"
     external: true
@@ -34,7 +34,7 @@ outro:
   image: ""
   heading: Get Started Today
   description: Save time and money using this premium Hugo theme.
-  button: 
+  button:
     text: "Buy Now"
     url: "https://www.zerostatic.io/theme/hugo-advance/"
     external: true

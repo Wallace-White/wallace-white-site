@@ -53,10 +53,10 @@ defaultContentLanguageInSubdir = false
         monospace = "Fira Mono"
 
     [params.logo]
-        logo = "images/logo/logo.png" # Desktop logo
-        logo_mobile = "images/logo/logo.png" # Mobile logo, typically the smaller square version of your logo (logomark)
-        logo_invert = "images/logo/logo.png" # Desktop logo in white, for use when the header is transparent
-        logo_invert_mobile = "images/logo/logo.png" # Mobile logo in white
+        logo = "images/logo/logo.svg" # Desktop logo
+        logo_mobile = "images/logo/logo.svg" # Mobile logo, typically the smaller square version of your logo (logomark)
+        logo_invert = "images/logo/logo.svg" # Desktop logo in white, for use when the header is transparent
+        logo_invert_mobile = "images/logo/logo.svg" # Mobile logo in white
 
     [params.seo]
         meta_twitter_site = "@zerostaticio"

@@ -23,7 +23,7 @@ theme = "hugo-hero-theme"
 
   [params.homepage_meta_tags]
     meta_description = "Wallace & White Technology Solutions offers a one-stop shop for IT excellence across a variety of industries. Take advantage of a team of experts for a fraction of the cost of maintaining an internal IT staff."
-    meta_og_title = "Hugo Hero Theme"
+    meta_og_title = "Wallace and White Technology Solutions"
     meta_og_type = "website"
     meta_og_url = "https://hugo-hero.netlify.app"
     meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-hero-theme/master/images/tn.png"

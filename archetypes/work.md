@@ -2,55 +2,72 @@
 title: "{{ replace .TranslationBaseName "-" " " | title }}"
 date: {{ .Date }}
 draft: false
-weight: 100
-heroHeading: 'Work'
-heroSubHeading: 'Our portfolio and previous projects'
-heroBackground: 'https://source.unsplash.com/1600x900/?architecture'
-image: 'work/work1.jpg'
+description: "In contrast subsymbolic processing specifies no such rules a priori and relies on emergent properties of processing units"
+weight: 1
+portfolio: ['research']
+header_transparent: true
+thumbnail: 'https://source.unsplash.com/CHLehnxQSFQ/700x800'
+hero:
+    background: 'https://source.unsplash.com/CHLehnxQSFQ/1600x900'
+    blend_mode: "overlay"
+    theme: "primary"
+work: 
+    heading: Stanford
+    heading_label: "Client"
+    brief: "A research paper to explore to explore cognitive architectures. Some cognitive architectures or models are based on a set of generic rules, as, e.g., the Information Processing Language."
+    link: "https://www.researchgate.net/topic/Engineering"
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+Markdown is a lightweight markup language with plain-text-formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML. Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.
 
-## Ne verba patulosque numen vix libet
+Since the initial description of Markdown contained ambiguities and unanswered questions, the implementations that appeared over the years have subtle differences and many come with syntax extensions.
 
-Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
+## History
 
-1. Cum det dixit Parcarum qui spemque est
-2. Exit ex huic
-3. Quod consiste agitataque claustraque vicina videt lacertis
-4. Loquor videt
-5. Ardua non igne caelesti coniugis cognovi diversorum
-6. Per nunc pariterque saeva vindicet
+John Gruber created the Markdown language in 2004 in collaboration with Aaron Swartz on the syntax, with the goal of enabling people "to write using an easy-to-read and easy-to-write plain text format". Its key design goal is readability. That the language be readable as-is. 
 
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
+> To write using an easy-to-read and easy-to-write plain text format
 
-## Postquam tamen
+To this end, its main inspiration is the existing conventions for marking up plain text in email, though it also draws from earlier markup languages, notably setext, Textile, and reStructuredText.
 
-Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
-et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
-licet! Inserui quamvis Clymeni.
+## Example
 
-- Parens est studiisque interea
-- Pro istis mediis carnes iste nec imperat
-- Te vocas orat nisi quantumque castra
-- Gestumque crepuscula esse videntur coegit
-- Ambo videtque gerat aquae ferens vagina
-- Adde leviter faciam tetigisse regunt concava in
+```js
+$(window).scroll(function() {
+  // this will work when your window scrolled.
+  var scroll = $(window).scrollTop(); //getting the scrolling height of window
+  if (scroll > 100) {
+    $('.header').addClass('header-scrolled');
+  } else {
+    $('.header').removeClass('header-scrolled');
+  }
+});
+```
 
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
-incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
-vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus
-parte](#dissipat) indignata supera.
+## Markdown Flavours
 
-Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
-iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
-et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
-somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.
+There are several different versions of markdown
+
+### CommonMark
+
+From 2012, a group of people including Jeff Atwood and John MacFarlane launched what Atwood characterized as a standardization effort. A community website now aims to "document various tools and resources available to document authors and developers, as well as implementors of the various markdown implementations".
+
+### GitHub Flavored Markdown (GFM)
+
+In 2017, GitHub released a formal specification of their GitHub Flavored Markdown (GFM) that is based on CommonMark. It follows the CommonMark specification exactly except for tables, strikethrough, autolinks and task lists, which the GitHub spec has added as extensions. GitHub also changed the parser used on their sites accordingly, which required that some documents be changed. For instance, GFM now requires that the hash symbol that creates a heading be separated from the heading text by a space character.he user to create their own.
+
+![écrivez sans crainte](/images/posts/hannah-grace-j9JoYpaJH3A-unsplash-800.jpg)
+
+### Markdown Extra
+
+Markdown Extra is a lightweight markup language based on Markdown implemented in PHP (originally), Python and Ruby. It adds features not available with plain Markdown syntax. Markdown Extra is supported in some content management systems such as, for example, Drupal.
+
+Markdown Extra adds the following features to Markdown:
+
+* markdown markup inside HTML blocks
+* elements with id/class attribute
+* "fenced code blocks" that span multiple lines of code
+* tables
+* definition lists
+* footnotes
+* abbreviations

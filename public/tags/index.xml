@@ -1,14 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Wallace and White Technology Solutions</title>
+    <title>Tags on Hugo Advance</title>
     <link>/tags/</link>
-    <description>Recent content in Tags on Wallace and White Technology Solutions</description>
+    <description>Recent content in Tags on Hugo Advance</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Sat, 29 Dec 2018 10:26:40 +1000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tutorials</title>
+      <link>/tags/tutorials/</link>
+      <pubDate>Sat, 29 Dec 2018 10:26:40 +1000</pubDate>
+      
+      <guid>/tags/tutorials/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

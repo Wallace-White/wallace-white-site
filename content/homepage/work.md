@@ -6,4 +6,4 @@ button: 'Our Work'
 buttonLink: 'work'
 ---
 
-Are you in need of technical services? We have many offerings ranging from device & network management, security & compliance, consulting, business solutions, and professional AV solutions.
+Wallace & White Technology Solutions offers a one-stop shop for IT excellence across a variety of industries. Take advantage of a team of experts for a fraction of the cost of maintaining an internal IT staff.

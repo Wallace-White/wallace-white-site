@@ -22,6 +22,8 @@ Planning a project or technology migration? Do you have a problem but are unsure
 
 We offer affordable consulting services for any and all of your technology and cybersecurity needs.
 
+------------------------------------------------
+
 # More than just providing information
 
 Our consulting services are much more than simply providing information. We operate within a hierarchical consulting model to achieve the following purposes: provide the requested information, provide exceptional solutions to given problems, conduct diagnostics that may redefine the problem, provide further recommendations, assist in implementation, build organizational consensus and commitment, facilitate organizational learning, and improve organizational effectiveness.

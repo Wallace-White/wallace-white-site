@@ -1,6 +1,6 @@
 ---
-title: 'Team'
-description: 'We deliver a complete range of digital services.'
+title: 'Leadership'
+description: 'We deliver a complete range of technical services.'
 date: 2018-02-12T15:37:57+07:00
 menu:
   main:

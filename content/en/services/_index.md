@@ -1,6 +1,6 @@
 ---
 title: 'Services'
-description: 'We deliver a complete range of digital services.'
+description: 'We deliver a complete range of technical services.'
 date: 2018-02-10T11:52:18+07:00
 menu:
   main:
@@ -18,6 +18,7 @@ hero:
   theme: "primary"
 ---
 
-# We create brands and engage audiences.
+# Technology is constantly changing.
+# Who's staying on top of it all?
 
-Incubator niche market launch party return on investment alpha ramen startup iteration business-to-consumer MVP influencer vesting period crowdsource leverage. Beta alpha technology metrics backing paradigm shift startup.
+Having the best solution in place can work wonders for your business. Whether it’s an increase in efficiency, lower costs of business, or higher productivity from your team, there is no better time than now to get started!

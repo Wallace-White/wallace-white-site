@@ -23,5 +23,3 @@ links:
     label: Email
     icon: "fa fa-envelope"
 ---
-
-Experienced IT & Cybersecurity professional. Experience working with some of the world's most demanding IT environments, including Fortune 100 / Global 2000 companies, offering world-class endpoint management and cybersecurity solutions. Skilled in ensuring organizations can make confident and data-driven decisions, operate efficiently, and remain resilient against disruption.

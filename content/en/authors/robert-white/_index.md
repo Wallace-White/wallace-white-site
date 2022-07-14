@@ -4,5 +4,4 @@ name: 'robert-white'
 avatar: 'images/team/rw.jpg'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.
-[](https://whitematter.tech/)
+Experienced IT & Cybersecurity professional. Experience working with some of the most demanding IT environments, including Fortune 100 / Global 2000 companies, offering world-class endpoint management and cybersecurity solutions. Skilled in ensuring organizations can make confident and data-driven decisions, operate efficiently, and remain resilient against disruption.

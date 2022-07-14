@@ -1,7 +1,7 @@
 ---
 title: 'Robert White'
 date: 2022-07-20T13:44:30+10:00
-weight: 1
+weight: 2
 description: "Experienced IT & Cybersecurity professional. Experience working with some of the world's most demanding IT environments, including Fortune 100 / Global 2000 companies, offering world-class endpoint management and cybersecurity solutions. Skilled in ensuring organizations can make confident and data-driven decisions, operate efficiently, and remain resilient against disruption."
 thumbnail: 'images/team/rw.jpg'
 image: 'images/team/rw.jpg'

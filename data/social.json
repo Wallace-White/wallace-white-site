@@ -3,5 +3,15 @@
     "title": "Github",
     "fa_icon": "fab fa-github",
     "url": "https://github.com/Wallace-White"
+  },
+  {
+    "title": "Facebook",
+    "fa_icon": "fab fa-facebook",
+    "url": "https://www.facebook.com/wallaceandwhitetech/"
+  }
+  {
+    "title": "LinkedIN",
+    "fa_icon": "fab fa-linkedin",
+    "url": "https://www.linkedin.com/company/wallace-and-white"
   }
 ]

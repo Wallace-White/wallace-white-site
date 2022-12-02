@@ -10,7 +10,7 @@ hero:
 services:
   enabled: true
   show_view_all: true
-  limit: 6
+  limit: 3
 intro:
   enabled: true
   align: left

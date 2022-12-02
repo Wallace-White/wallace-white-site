@@ -7,7 +7,7 @@ menu:
     name: "Software"
     weight: 4
     parent: "services"
-weight: 1
+weight: 6
 header_transparent: false
 icon: 'images/services/icons8-source_code.png'
 thumbnail: 'https://source.unsplash.com/FlPc9_VocJ4/640x360'

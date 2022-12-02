@@ -6,7 +6,7 @@ menu:
   main:
     weight: 5
     parent: "services"
-weight: 5
+weight: 4
 header_transparent: false
 icon: 'images/services/icons8-businessman-64.png'
 thumbnail: 'https://source.unsplash.com/MYbhN8KaaEc/640x360'

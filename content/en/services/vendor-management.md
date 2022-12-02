@@ -6,7 +6,7 @@ menu:
   main:
     weight: 6
     parent: "services"
-weight: 6
+weight: 5
 header_transparent: false
 icon: 'images/services/icons8-ecommerce-64.png'
 thumbnail: 'https://source.unsplash.com/VLkoOabAxqw/640x360'

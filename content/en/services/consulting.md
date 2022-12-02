@@ -6,7 +6,7 @@ menu:
   main:
     weight: 1
     parent: "services"
-weight: 2
+weight: 1
 icon: 'images/services/icons8-consultant-78.png'
 thumbnail: 'https://source.unsplash.com/TTPMpLl_2lc/640x360'
 image: 'https://source.unsplash.com/TTPMpLl_2lc/640x450'

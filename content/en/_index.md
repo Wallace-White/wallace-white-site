@@ -19,7 +19,7 @@ intro:
   description: Our tech solutions makes IT easy for business owners and end users alike.
   button:
     text: "View Services"
-    url: "mailto:info@wallaceandwhite.com"
+    url: "https://wallaceandwhite.com/services/"
     external: true
   partners:
     enabled: false

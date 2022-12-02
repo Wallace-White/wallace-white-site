@@ -8,7 +8,7 @@ menu:
     name: "About"
   footer_secondary:
     weight: 2
-description: 'Business plan hackathon handshake responsive web design.'
+description: 'Wallace and White Technology Solutions'
 image: 'https://source.unsplash.com/ZW6RUvsaFTc/1140x300'
 ---
 

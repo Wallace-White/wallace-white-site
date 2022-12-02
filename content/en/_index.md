@@ -16,13 +16,13 @@ intro:
   align: left
   image: "images/home/kevin-bhagat-zNRITe8NPqY-unsplash-800.jpg"
   heading: "We Make Tech Easy"
-  description: Our software empowers customers and retailers to work from anywhere in the world, on the go, or at home.
+  description: Our tech solutions makes IT easy for business owners and end users alike.
   button:
-    text: "Free Consultation!"
+    text: "View Services"
     url: "mailto:info@wallaceandwhite.com"
     external: true
   partners:
-    enabled: true
+    enabled: false
 work:
   enabled: true
   label: "Our Portfolio"
@@ -33,10 +33,10 @@ outro:
   align: center
   image: ""
   heading: Get Started Today
-  description: Save time and money using this premium Hugo theme.
+  description: Contact us to get started with a free consultation.
   button:
-    text: "Buy Now"
-    url: "https://www.zerostatic.io/theme/hugo-advance/"
+    text: "Free Consultation"
+    url: "mailto:info@wallaceandwhite.com"
     external: true
 blog:
   enabled: false

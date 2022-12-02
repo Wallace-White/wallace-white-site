@@ -22,7 +22,7 @@ intro:
     url: "https://wallaceandwhite.com/services/"
     external: true
   partners:
-    enabled: false
+    enabled: true
 work:
   enabled: true
   label: "Our Portfolio"

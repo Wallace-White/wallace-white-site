@@ -18,7 +18,7 @@ links:
     icon: "fab fa-twitter"
   - url: 'https://scholar.white.fm'
     label: Google Scholar
-    icon: "fa fa-graduation-cap"
+    icon: "fas fa-graduation-cap"
   - url: 'mailto:robert@wallaceandwhite.com'
     label: Email
     icon: "fa fa-envelope"

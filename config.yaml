@@ -1,7 +1,7 @@
 baseURL: /
 title: 'Wallace and White Technology Solutions, LLC'
 theme: hugo-advance
-paginate: 3
+paginate: 6
 enableGitInfo: false
 pygmentsCodeFences: true
 pygmentsCodefencesGuessSyntax: true

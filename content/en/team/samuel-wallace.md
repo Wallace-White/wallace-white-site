@@ -5,10 +5,9 @@ weight: 1
 description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 #thumbnail: 'images/team/mike-vance.jpg'
 image: 'images/team/mike-vance.jpg'
-jobtitle: """
+jobtitle: '
 Co-Founder / Partner
-CISSP
-"""
+CISSP'
 links:
   - url: 'https://www.linkedin.com'
     label: LinkedIn

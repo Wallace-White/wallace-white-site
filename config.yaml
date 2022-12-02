@@ -69,14 +69,14 @@ params:
     enable_menu_footer_tertiary: true
     footer_tertiary_menu_title: Support
 menu:
-  main:
-    - name: Buy Now
-      url: 'https://www.zerostatic.io/theme/hugo-advance/'
-      weight: 10
-  footer_tertiary:
-    - name: Buy Now
-      url: 'https://www.zerostatic.io/theme/hugo-advance/'
-      weight: 10
+  #main:
+  #  - name: Buy Now
+  #    url: 'https://www.zerostatic.io/theme/hugo-advance/'
+  #    weight: 10
+  #footer_tertiary:
+  #  - name: Buy Now
+  #    url: 'https://www.zerostatic.io/theme/hugo-advance/'
+  #    weight: 10
 languages:
   en:
     weight: 0

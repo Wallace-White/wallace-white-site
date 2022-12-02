@@ -15,11 +15,11 @@ intro:
   enabled: true
   align: left
   image: "images/home/kevin-bhagat-zNRITe8NPqY-unsplash-800.jpg"
-  heading: "We Help Business Grow"
+  heading: "We Make Tech Easy"
   description: Our software empowers customers and retailers to work from anywhere in the world, on the go, or at home.
   button:
-    text: "Buy Now"
-    url: "https://www.zerostatic.io/theme/hugo-advance/"
+    text: "Free Consultation!"
+    url: "mailto:info@wallaceandwhite.com"
     external: true
   partners:
     enabled: true

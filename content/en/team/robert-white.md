@@ -18,7 +18,7 @@ links:
     icon: "fab fa-twitter"
   - url: 'https://credly.white.fm'
     label: Credly
-    icon: "fa-sharp fa-solid fa-file-certificate"
+    icon: "fa-solid fa-certificate"
   - url: 'https://scholar.white.fm'
     label: Google Scholar
     icon: "fas fa-graduation-cap"

@@ -16,10 +16,14 @@ links:
   - url: 'https://twitter.white.fm'
     label: Twitter
     icon: "fab fa-twitter"
+  - url: 'https://credly.white.fm'
+    label: Credly
+    icon: "fa-sharp fa-solid fa-file-certificate"
   - url: 'https://scholar.white.fm'
     label: Google Scholar
     icon: "fas fa-graduation-cap"
   - url: 'mailto:robert@wallaceandwhite.com'
     label: Email
     icon: "fa fa-envelope"
+
 ---

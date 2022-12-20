@@ -1,9 +1,7 @@
 ---
 title: 'Wallace and White Technology Solutions'
 date: 2019-02-22
-description: "Are you in need of top-notch tech services? Our team of experts is here to provide IT excellence across a wide range of industries. As a one-stop shop for all your tech needs, we can help you streamline your IT operations and keep your business running smoothly. Our team is highly skilled and experienced, capable of handling everything from cloud-based services and data backup to cybersecurity and hardware support. And with our competitive pricing, you can take advantage of our expertise for a fraction of the cost of maintaining an in-house IT team.
-
-[Contact us today](https://wallaceandwhite.com/contact/) to learn more about how we can support your business."
+description: "Are you in need of top-notch tech services? Our team of experts is here to provide IT excellence across a wide range of industries. Take advantage of our expertise for a fraction of the cost of maintaining an in-house IT team."
 header_transparent: true
 hero:
   background: "images/home/home.jpeg"

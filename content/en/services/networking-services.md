@@ -1,6 +1,6 @@
 ---
 title: 'Networking Services'
-description: 'Building Modern Networking Solutions'
+description: 'Building and supporting modern networking solutions'
 date: 2018-11-28T15:15:34+10:00
 menu:
   main:

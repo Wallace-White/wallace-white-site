@@ -1,6 +1,6 @@
 ---
 title: 'Consulting'
-description: 'Providing business and organization advice in Information Technology and Cybersecurity.'
+description: 'Providing business and organization advice in Information Technology and Cybersecurity'
 date: 2019-10-03
 menu:
   main:

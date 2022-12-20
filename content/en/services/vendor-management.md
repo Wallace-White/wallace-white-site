@@ -19,4 +19,10 @@ hero:
 
 # We'll manage your vendor relationships
 
-Most organizations spend over 70% of their technology budget on external vendors. We can help navigate the world of vendor contracts (SLAs), technology, and finance to ensure your organization gets the best vendor for the best price to meet your needs.
+Vendor management is the process of overseeing and optimizing the relationships between a business and its external suppliers or vendors. We understand that managing vendor relationships can be a complex and time-consuming task, especially when it comes to technology. That's why we offer a range of vendor management services designed to help businesses of all sizes streamline their vendor relationships and get the most value out of their investments.
+
+Our vendor management services include everything from negotiating contracts and service level agreements (SLAs) to managing technology budgets and evaluating vendor performance. We work closely with your team to understand your specific needs and goals, and we use our expertise to help you select the best vendors for your business.
+
+Our vendor management team is composed of experienced professionals with a deep understanding of technology and finance. We have the knowledge and resources to help you navigate the complex world of vendor relationships, and to ensure that your organization gets the best value for its technology investments.
+
+Contact us today to learn more about how our vendor management services can help your business succeed.

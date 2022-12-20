@@ -18,9 +18,13 @@ hero:
 
 # Invaluable organizational assistance
 
-Planning a project or technology migration? Do you have a problem but are unsure of the best solution? Do you just need a second opinion? We have you covered!
+We are committed to helping businesses of all sizes succeed through expert consulting services. Our team of certified professionals has a wealth of experience in a wide range of industries, and we are here to help you navigate the complexities of technology and cybersecurity.
 
-We offer affordable consulting services for any and all of your technology and cybersecurity needs.
+Whether you are planning a project, migrating to new technology, or simply looking for guidance on a specific problem, our consulting services are here to help. We offer affordable, customized solutions that are tailored to your unique business needs.
+
+Our consulting services include everything from needs assessments and solution planning to implementation and ongoing support. We work closely with you to understand your business goals and objectives, and we use our expertise to help you make informed decisions that will drive your success.
+
+So if you are in need of expert guidance on any aspect of technology or cybersecurity, don't hesitate to contact us. We are here to help you succeed.
 
 ------------------------------------------------
 

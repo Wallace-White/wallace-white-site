@@ -20,6 +20,10 @@ hero:
 
 # Helping you select the best software to meet your business needs.
 
-The tools you use to run your business can have a huge impact on your bottom line. Payroll, accounting, time-tracking, workplace collaboration, email, web-hosts, etc.. These tools can all be essential to the running of a modern business.
+We understand the importance of choosing the right business software for your company. The tools you use to run your business can have a significant impact on your efficiency, productivity, and bottom line. That's why we offer a range of services to help you make informed decisions about your business software.
 
-We will work with you to enable solutions tailored to your business. Make your tools work for you, not the other way around.
+Our business software decision services include everything from needs assessments and vendor evaluations to software implementation and training. We work closely with you to understand your business needs and goals, and we use our expertise to help you select the best software solutions for your company.
+
+Our team of experienced professionals has a deep understanding of a wide range of business software, including payroll, accounting, time-tracking, workplace collaboration, email, and web hosting. We have the knowledge and resources to help you make your tools work for you, not the other way around.
+
+Contact us today to learn more about how our business software decision services can help your business succeed.

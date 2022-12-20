@@ -6,10 +6,13 @@ description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do ei
 image: '/images/team/mike-vance.jpg'
 jobtitle: 'Co-Founder / Partner'
 links:
-  - url: 'https://www.linkedin.com'
+  - url: 'https://www.linkedin.com/in/s-wallace17/'
     label: LinkedIn
     icon: "fab fa-linkedin"
-  - url: 'https://dribbble.com'
-    label: Dribbble
-    icon: "fab fa-dribbble"
+  - url: 'https://github.com/swallace17'
+    label: Github
+    icon: "fab fa-github"
+  - url: 'mailto:samuel@wallaceandwhite.com'
+    label: Email
+    icon: "fa fa-envelope"
 ---

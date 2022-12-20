@@ -6,7 +6,7 @@ menu:
     weight: 1
 ---
 
-We are a team of tech and cybersecurity professionals. We offer a free consultation for all new clients.
+We are a team of tech and cybersecurity professionals. We offer a free consultation for all new clients. Contact us today to get started!
 
 - **Phone:** +1 (937) 543-2576
 - **Email:** [info@wallaceandwhite.com](mailto:info@wallaceandwhite.com)

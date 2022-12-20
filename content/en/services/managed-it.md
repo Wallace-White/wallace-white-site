@@ -27,4 +27,4 @@ Our **managed IT** services include everything from deployment and configuration
 
 Our **managed IT** services also enable zero-touch deployment, making it easy to roll out new devices and updates across your organization. And with our centralized management tools, you can easily enforce organization-wide changes on all of your devices with just a few clicks.
 
-Contact us today to learn more about how our **managed IT*** services can help your business succeed.
+Contact us today to learn more about how our **managed IT** services can help your business succeed.

@@ -10,6 +10,9 @@ thumbnail: '/images/team/rw.jpg'
 image: '/images/team/rw.jpg'
 jobtitle: 'Co-Founder / Partner'
 links:
+  - url: 'https://calendar.white.fm'
+    label: Calendly
+    icon: "fa fa-calendar"
   - url: 'https://linkedin.white.fm'
     label: LinkedIn
     icon: "fab fa-linkedin"

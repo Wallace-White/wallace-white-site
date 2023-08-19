@@ -18,5 +18,30 @@
     "title": "CISSP Leaders",
     "image": "/images/partners/cissp.png",
     "url": "https://www.credly.com/badges/9f982e64-465c-4f20-817a-afc1c964622e/public_url"
+  },
+  {
+    "title": "Google Cloud",
+    "image": "/images/partners/googlecloud.png",
+    "url": "https://cloud.google.com/"
+  },
+  {
+    "title": "Mosyle",
+    "image": "/images/partners/mosyle.png",
+    "url": "https://business.mosyle.com/"
+  },
+  {
+    "title": "Synology",
+    "image": "/images/partners/synology.png",
+    "url": "https://www.synology.com/en-us"
+  },
+  {
+    "title": "Backblaze",
+    "image": "/images/partners/backblaze.png",
+    "url": "https://www.backblaze.com/"
+  },
+  {
+    "title": "AltaFiber",
+    "image": "/images/partners/altafiber.png",
+    "url": "https://www.altafiber.com/"
   }
 ]

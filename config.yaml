@@ -18,7 +18,7 @@ params:
   enable_language_switcher: true
   colors:
     light:
-      base: '#f2f2f2'
+      base: '#f4f5fb'
       base_offset: '#ffffff'
       base_text: '#202020'
       base_text_offset: '#625c5c'
@@ -31,8 +31,8 @@ params:
       primary_text: '#79bcff'
       primary_text_offset: '#ffffff'
     dark:
-      base: '#121212'
-      base_offset: '#1e1e1e'
+      base: '#1e1e1e'
+      base_offset: '#121212'
       base_text: '#ffffff'
       base_text_offset: '#d7d7d7'
       alt: '#1e1e1e'

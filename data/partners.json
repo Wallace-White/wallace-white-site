@@ -30,18 +30,8 @@
     "url": "https://business.mosyle.com/"
   },
   {
-    "title": "Synology",
-    "image": "/images/partners/synology.png",
-    "url": "https://www.synology.com/en-us"
-  },
-  {
     "title": "Backblaze",
     "image": "/images/partners/backblaze.png",
     "url": "https://www.backblaze.com/"
-  },
-  {
-    "title": "AltaFiber",
-    "image": "/images/partners/altafiber.png",
-    "url": "https://www.altafiber.com/"
   }
 ]

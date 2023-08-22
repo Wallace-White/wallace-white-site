@@ -28,7 +28,7 @@ intro:
   partners:
     enabled: true
 work:
-  enabled: true
+  enabled: false
   label: "Our Portfolio"
   show_view_all: false
   limit: 2

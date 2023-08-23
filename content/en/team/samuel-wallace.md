@@ -2,7 +2,7 @@
 title: 'Samuel Wallace'
 date: 2018-12-20T13:44:30+10:00
 weight: 1
-description: "IT Operations & Cybersecurity professional skilled in managing environments big and small. Excels at evaluating big picture business needs and implementing smart technical solutions which increase efficiency and reduce cost while thoughtfully managing risk. Experienced in leading critical endpoint management modernization projects, and in communicating benefits of such efforts to stakeholders at all levels of technical understanding. Ensures operational and technical excellence while identifying innovative services and solutions to drive process improvement and efficiency. Works closely with internal/external partners and senior leadership to develop short- and long-term IT operational strategies that achieve measurable outcomes."
+description: "IT Operations & Cybersecurity professional skilled in managing environments big and small. Excels at evaluating big picture business needs and implementing smart technical solutions which increase efficiency and reduce cost while thoughtfully managing risk. Ensures operational and technical excellence while identifying innovative services and solutions to drive process improvement and efficiency."
 # image: '/images/team/mike-vance.jpg'
 jobtitle: 'Co-Founder / Partner'
 links:

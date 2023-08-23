@@ -35,8 +35,6 @@ User experience is about how a user interacts with, and experiences, a particula
 
 The Why involves the users’ motivations for adopting a product, whether they relate to a task they wish to perform with it or to values and views which users associate with the ownership and use of the product.
 
-{{< figure src="/images/gen/content/content-2.webp" title="Steve Francia"  caption="Designing in Figma" alt="Photo of designing a website in Figma" link="https://figma.com" target="_blank">}}
-
 ## Front-end Development
 
 The What addresses the things people can do with a product—its functionality. Finally, the How relates to the design of functionality in an accessible and aesthetically pleasant way. UX designers start with the Why before determining the What and then, finally, the How in order to create products that users can form meaningful experiences with. In software designs, you will need to ensure the product’s “substance” comes through an existing device and offers a seamless, fluid experience.
@@ -48,8 +46,6 @@ Web designers are expected to have an awareness of usability and if their role i
 ## Design Systems
 
 A Design System is a set of interconnected patterns and shared practices coherently organized to aid in digital product design and development of products such as apps or websites.
-
-{{< youtube 2M6dJ2Uynhg >}}
 
 ## Process
 

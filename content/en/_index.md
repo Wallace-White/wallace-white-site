@@ -4,7 +4,7 @@ date: 2019-02-22
 description: "Are you in need of top-notch tech services? Our team of experts is here to provide IT excellence across a wide range of industries. Take advantage of our expertise for a fraction of the cost of maintaining an in-house IT team."
 header_transparent: true
 hero:
-  background: "images/home/home.jpeg"
+  background: "images/home/home.jpg"
   blend_mode: "overlay"
   theme: "primary"
 services:
@@ -40,7 +40,7 @@ outro:
   description: Contact us to get started with a free consultation.
   button:
     text: "Free Consultation"
-    url: "mailto:info@wallaceandwhite.com"
+    url: "https://discover.wallaceandwhite.com/free-consultation"
     external: true
 blog:
   enabled: false

@@ -7,7 +7,7 @@ menu:
 
 # Terms and Conditions
 
-Last updated: April 07, 2021
+Last updated: April 07, 2023
 
 Please read these terms and conditions carefully before using Our Service.
 

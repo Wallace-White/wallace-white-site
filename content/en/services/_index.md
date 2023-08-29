@@ -21,4 +21,4 @@ hero:
 # Technology is constantly changing.
 # Who's staying on top of it all?
 
-Having the best solution in place can work wonders for your business. Whether it’s an increase in efficiency, lower costs of business, or higher productivity from your team, there is no better time than now to get started!
+Having the optimal solution in place can work wonders for your business. Whether it’s an increase in efficiency, lower costs of business, or higher productivity from your team, there is no better time than now to get started!

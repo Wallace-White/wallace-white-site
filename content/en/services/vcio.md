@@ -19,10 +19,6 @@ hero:
 
 # Improve your business with a vCIO
 
-Our virtual Chief Information Officer (vCIO) team is dedicated to helping businesses of all sizes achieve their strategic IT goals. Our vCIOs are highly skilled professionals with a deep understanding of technology and its potential to drive business growth.
-
-As an integral part of your team, our vCIOs work closely with you to understand your business goals and objectives, and to develop a customized IT roadmap that aligns with your strategic vision. Whether you need help formulating corporate IT policies, creating a budget, or identifying new technologies to invest in, our vCIOs are here to help.
-
-Our vCIOs are more than just technical advisors - they are true business partners. They have the knowledge and experience to help you navigate the constantly changing landscape of technology, and to make informed decisions that will drive your business forward.
+Our virtual Chief Information Officer (vCIO) team is dedicated to helping businesses of all sizes achieve their strategic IT goals. In a vCIO role, Wallace and White Technology Solutions partner with you as a virtual extension of your team, assessing your IT environment, identifying opportunities for improvement, and managing risk. We work closely with you to understand your business goals and to develop a customized IT roadmap that aligns with your strategic vision. Whether you need help formulating corporate IT policies, creating a budget, or identifying new technologies to invest in, our vCIOs are here to help.
 
 By partnering with our vCIO team, you can take advantage of the latest technologies and best practices without the need to invest in an internal IT team. Contact us today to learn more about how our vCIOs can help your business achieve its full potential.

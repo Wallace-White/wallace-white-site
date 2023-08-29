@@ -12,11 +12,11 @@ description: 'Wallace and White Technology Solutions'
 image: 'https://source.unsplash.com/ZW6RUvsaFTc/1140x300'
 ---
 
-At Wallace & White Technology Solutions, we are dedicated to delivering exceptional managed IT services to businesses of all sizes. Our team of certified professionals has a wealth of experience across a wide range of industries, and we pride ourselves on our ability to provide personalized solutions that meet the unique needs of each of our clients.
+Wallace & White are dedicated to delivering exceptional managed IT services to businesses of all sizes. Our team of certified professionals has a wealth of experience across a wide range of industries, and we pride ourselves on our ability to provide personalized solutions that meet the unique needs of each of our clients.
 
-Our comprehensive range of services includes everything from network design and deployment to ongoing maintenance and support. We also offer a range of security solutions to help keep your business safe from cyber threats.
+Our comprehensive range of services includes everything from network design and deployment to ongoing maintenance and support. We also offer a range of security solutions to help you manage your business’ cybersecurity risk. 
 
-By partnering with us, you can take advantage of the latest technologies and best practices without the need to invest in an internal IT team. Our team is available around the clock to provide prompt, reliable support whenever you need it.
+Partner with us to experience the advantage of the latest technologies and best practices without the cost of maintaining an in-house IT team.
 
 In addition to our technical expertise, we are also committed to building long-term relationships with our clients. We work closely with you to understand your business goals and objectives, and we strive to be a true partner in your success.
 

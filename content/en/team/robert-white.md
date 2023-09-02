@@ -7,7 +7,7 @@ thumbnail: '/images/team/rw.jpg'
 image: '/images/team/rw.jpg'
 jobtitle: 'Co-Founder / Partner'
 links:
-  - url: 'hhttps://meetings.hubspot.com/robertwhite/teams'
+  - url: 'https://meetings.hubspot.com/robertwhite/teams'
     label: Calendar Booking
     icon: "fa fa-calendar"
   - url: 'https://linkedin.white.fm'

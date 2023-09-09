@@ -1,5 +1,5 @@
 ---
-title: 'Robert White'
+title: 'Robert D. White'
 date: 2022-07-10T13:44:30+10:00
 weight: 1
 description: "Experienced IT and cybersecurity professional. Experience working with some of the world's most demanding IT environments, including Fortune 100 / Global 2000 companies and the United States military and Department of Defense, offering world-class endpoint management and cybersecurity solutions. Skilled in ensuring organizations can make confident and data-driven decisions, operate efficiently, and remain resilient against disruption."

@@ -12,5 +12,5 @@ menu:
 
 We offer a free consultation for all new clients. Contact us today to get started!
 
-- **Phone:** +1 (513) 430-4456 / +1 (937) 543-2576
+- **Phone:** +1 (513) 334-3993
 - **Email:** [info@wallaceandwhite.com](mailto:info@wallaceandwhite.com)
